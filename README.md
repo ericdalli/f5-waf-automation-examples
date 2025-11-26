@@ -28,3 +28,5 @@ Lightweight examples showing how to:
 
 ## 🏗 Folder Structure
 
+### Update Log
+- Minor formatting improvements (2025-01)
