@@ -1,0 +1,3 @@
+{"timestamp": "2025-01-01T10:00:00Z", "ip_client": "192.0.2.10", "http_method": "GET", "uri": "/login", "violation_name": "VIOL_SQL_INJECTION", "support_id": "123456789"}
+{"timestamp": "2025-01-01T10:01:00Z", "ip_client": "198.51.100.23", "http_method": "POST", "uri": "/api/v1/user", "violation_name": "VIOL_XSS", "support_id": "987654321"}
+{"timestamp": "2025-01-01T10:02:30Z", "ip_client": "203.0.113.5", "http_method": "GET", "uri": "/health", "violation_name": "VIOL_HTTP_PROTOCOL_VIOLATION", "support_id": "555555555"}
